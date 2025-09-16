@@ -1,0 +1,7 @@
+# Ignora la cartella data
+data/
+out/ir/
+# Ignora i file con estensioni specifiche
+*.freq
+*.dict
+*.map
