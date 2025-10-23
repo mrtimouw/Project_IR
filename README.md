@@ -12,7 +12,7 @@ It includes:
 
 ---
 
-## 🔧 Compile
+##  Compile
 
 From the project root, compile all Java source files into the `out/` folder:
 
